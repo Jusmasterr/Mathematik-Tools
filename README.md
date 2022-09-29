@@ -1,9 +1,7 @@
 # Mathematik-Tools
 # Projekt-Dokumentation
 
-☝️ Alle Text-Stellen, welche mit einem ✍️ beginnen, können Sie löschen, sobald Sie die entsprechende Stellen ausgefüllt haben.
-
-✍️ Ihr Gruppenname und Ihre Nachnamen
+Gruppe Passivkonto | Tuma, Meister, Bächli, Meyer
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
@@ -15,7 +13,7 @@
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+Wir programmieren ein Mathematik-Tool, welches verschiedene Dinge berechnen oder vereinfachen kann.
 
 ### 1.2 User Stories
 
