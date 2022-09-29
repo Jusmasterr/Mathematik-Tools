@@ -19,8 +19,8 @@ Wir programmieren ein Mathematik-Tool, welches verschiedene Dinge berechnen oder
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    | Muss            | Funktional | Als User möchte ich den grössten gemeinsamen Teiler zweier Brüche herausfinden können, in dem ich die Brüche eingebe. |
-| 2    | Muss            | Funktional | Als User möchte ich das kleinste gemeinsame Vielfache zweier Brüche herausfinden können, in dem ich die Brüche eingebe. |
+| 1    | Muss            | Funktional | Als User möchte ich den grössten gemeinsamen Teiler zweier Natürlichen Zahlen herausfinden können, in dem ich die Zahlen eingebe. |
+| 2    | Muss            | Funktional | Als User möchte ich das kleinste gemeinsame Vielfache zweier Natürlichen Zahlen herausfinden können, in dem ich die Zahlen eingebe. |
 | 3    | Muss            | Funktional | Als User möchte ich einen Bruch so klein wie möglich kürzen können, in dem ich den Bruch eingebe. |
 | 4    | Muss            | Funktional | Als User möchte ich zwei Brüche addieren und subtrahieren können, in dem ich den Operator und die Brüche eingebe. |
 | 5    | Muss            | Funktional | Als User möchte ich zwei Brüche multiplizieren und dividieren können, in dem ich den Operator und die Brüche eongebe. |
