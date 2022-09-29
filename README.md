@@ -19,10 +19,14 @@ Wir programmieren ein Mathematik-Tool, welches verschiedene Dinge berechnen oder
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
 | ---- | --------------- | ---- | ---------------------------------- |
-| 1    |                 |      | Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️ |
-| ...  |                 |      |                                    |
+| 1    | Muss            | Funktional | Als User möchte ich den grössten gemeinsamen Teiler zweier Brüche herausfinden können, in dem ich die Brüche eingebe. |
+| 2    | Muss            | Funktional | Als User möchte ich das kleinste gemeinsame Vielfache zweier Brüche herausfinden können, in dem ich die Brüche eingebe. |
+| 3    | Muss            | Funktional | Als User möchte ich einen Bruch so klein wie möglich kürzen können, in dem ich den Bruch eingebe. |
+| 4    | Muss            | Funktional | Als User möchte ich zwei Brüche addieren und subtrahieren können, in dem ich den Operator und die Brüche eingebe. |
+| 5    | Muss            | Funktional | Als User möchte ich zwei Brüche multiplizieren und dividieren können, in dem ich den Operator und die Brüche eongebe. |
+| 6    | Kann            | Funktional | Als User möchte ich eine beliebeige, rationale Dezimalzahl als gekürzter Bruch darstellen können, in dem ich sie eingebe. |
+| 7    | Kann            | Funktional | Als User möchte ich Primfaktorzerlegung auf eine beliebige, natürliche Zahl anwenden, indem ich die Zahl eingebe. |
 
-✍️ Jede User Story hat eine ganzzahlige Nummer (1, 2, 3 etc.), eine Verbindlichkeit (Muss oder Kann?), und einen Typ (Funktional, Qualität, Rand). Die User Story selber hat folgende Form: *Als ein 🤷‍♂️ möchte ich 🤷‍♂️, damit 🤷‍♂️*.
 
 ### 1.3 Testfälle
 
