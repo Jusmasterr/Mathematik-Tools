@@ -26,6 +26,7 @@ Wir programmieren ein Mathematik-Tool, welches verschiedene Dinge berechnen oder
 | 5    | Muss            | Funktional | Als User möchte ich zwei Brüche multiplizieren und dividieren können, in dem ich den Operator und die Brüche eongebe. |
 | 6    | Kann            | Funktional | Als User möchte ich eine beliebeige, rationale Dezimalzahl als gekürzter Bruch darstellen können, in dem ich sie eingebe. |
 | 7    | Kann            | Funktional | Als User möchte ich Primfaktorzerlegung auf eine beliebige, natürliche Zahl anwenden, indem ich die Zahl eingebe. |
+| 8    | Kann            | Funktional | Als User möchte ich einen Term ausrechnen, indem ich ihn eingebe. |
 
 
 ### 1.3 Testfälle
@@ -39,7 +40,8 @@ Wir programmieren ein Mathematik-Tool, welches verschiedene Dinge berechnen oder
 
 ## 3 Entscheiden
 
-✍️ Dokumentieren Sie hier Ihre Entscheidungen und Annahmen, die Sie im Bezug auf Ihre User Stories und die Implementierung getroffen haben.
+29.09.22: Wir haben entschieden, dass Justus und Cedric für das GUI zuständig sind, Fabian fürs Programmieren, ich für die Dokumentation und Cedric der Gruppenchef ist.
+30.09.22: Wir haben entschieden, dass wir das GUI definitiv machen, dass wir am Schluss ein Textdokument mit dem Rechnungsverlauf haben möchten und dass wir ein Bild des Mathelehrers auf die Titelseite des Programms machen.
 
 ## 5 Kontrollieren
 
