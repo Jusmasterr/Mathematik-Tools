@@ -5,8 +5,8 @@ Gruppe Passivkonto | Tuma, Meister, Bächli, Meyer
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|       | 0.0.1   | ✍️ Jedes Mal, wenn Sie an dem Projekt arbeiten, fügen Sie hier eine neue Zeile ein und beschreiben in *einem* Satz, was Sie erreicht haben. |
-|       | ...     |                                                              |
+| 29.09.22 | 0.0.1 | Wir haben die Planung und Rollenverteilung gemacht.         |
+| 30.09.22 | 0.0.2 | Wir haben angefangen zu programmieren und hatten ein Meeting mit dem Auftraggeber. |
 |       | 1.0.0   |                                                              |
 
 ## 1 Informieren
