@@ -33,10 +33,15 @@ Wir programmieren ein Mathematik-Tool, welches verschiedene Dinge berechnen oder
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |              |         |                   |
-| ...  |              |         |                   |
+| 1.1  | Programm wird gestartet, Option wird gewählt. | 3, 9 | 3 |
+| 2.1  | Programm wird gestartet, Option wird gewählt. | 3, 9 | 9 |
+| 3.1  | Programm wird gestartet, Option wird gewählt. | 6/10 | 3/5 |
+| 4.1  | Programm wird gestartet, Option wird gewählt. | 3/10 - 1/5 | 1/10 |
+| 5.1  | Programm wird gestartet, Option wird gewählt. | 1/3 : 2/3 | 1/2 |
+| 6.1  | Programm wird gestartet, Option wird gewählt. | 0.5 | 1/2 |
+| 7.1  | Programm wird gestartet, Option wird gewählt. | 10 | 2 x 5 |
+| 8.1  | Programm wird gestartet, Option wird gewählt. | a + a | 2a |
 
-✍️ Die Nummer hat das Format `N.m`, wobei `N` die Nummer der User Story ist, die der Testfall abdeckt, und `m` von `1` an nach oben gezählt. Beispiel: Der dritte Testfall, der die zweite User Story abdeckt, hat also die Nummer `2.3`.
 
 ## 3 Entscheiden
 
