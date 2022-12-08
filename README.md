@@ -7,7 +7,13 @@ Gruppe Passivkonto | Tuma, Meister, Bächli, Meyer
 | ----- | ------- | ------------------------------------------------------------ |
 | 29.09.22 | 0.0.1 | Wir haben die Planung und Rollenverteilung gemacht.         |
 | 30.09.22 | 0.0.2 | Wir haben angefangen zu programmieren und hatten ein Meeting mit dem Auftraggeber. |
-|       | 1.0.0   |                                                              |
+| 27.10.22 | 1.0.0 | Wir haben die Berechnung vom ggT (grösster gemeinsamer Teiler) zweier natürlicher Zahlen programmiertund am GUI gearbeitet.|
+| 3.11.22 | 2.0.0 | Wir haben die Berechnung vom kgV (kleinstes gemeinsames Vielfache) zweier natürlicher Zahlen programmiertund am GUI gearbeitet.|
+| 10.11.22 | 3.0.0 | Wir haben die Kürzung eines Bruches programmiertund am GUI gearbeitet.|
+| 17.11.22 | 4.0.0 | Wir haben die Addition/Subtraktion zweier Brüche programmiertund am GUI gearbeitet.|
+| 24.11.22 | 5.0.0 | Wir haben die Multiplikation/Division zweier Brüche programmiertund am GUI gearbeitet.|
+| 1.12.22 | 6.0.0 | Wir haben die Zusatzfunktionen programmiertund am GUI gearbeitet.|
+| 8.12.22 | 7.0.0 | Wir haben die finalen Verbesserungen gemacht.|
 
 ## 1 Informieren
 
